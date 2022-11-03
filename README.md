@@ -1,9 +1,1 @@
-<h1>
-Ransomware
-</h1>
-<p>
-This isn't professional. Just a simple script that encryptes the files and decryptes them.
-
-Dummy.py generates random files for encryption.
-Change the file size in bytes (takes some time, use threads)
-</p>
+gAAAAABjY26aHPXFAk_Fb7LVoPYk7mJOXTtQvyCHH2Qko7oc0qMzTJlMLfsF5u9npcMGaFh5tdzMKm_u5_z1poNqQz3skBVQzhvAEQFE44BDIq2JbV_ERnwRdqsn9hEoj1n6yfyqpVWsQfuVg6WyJulybHifHuOZ5Wq1YcMEgtDNbhh1nLI8MUg3yqsn7o-z_CIp5AlD3MT4awk4JC4Hke4RY8pVHRUbV_1_A_9rgPqEstAdPzSDx-LG2FvS8uNQ-lWxQPfi9OMLlyELBLuGqbOw57dSveBxjCX7OdvIoK_yLEon4Y1-Gee-_1A0ehRePExPYvMq7ilMQNM0G5kubwy1hsuaKUIMW3ccomgXAg1Yax-sVkJ5r0bmkZmkYdvBmkCm29ibn-ugKjTd05WvTmUcFQX7oDs2gnJjZcAI4VtELIvky0Nl6xFEWGD82lr9NKN0GkI5wg7bJm8XUQ8ycORQR9FJ5oONWWYKVlyqIRLp8ulVr-MYp2R378t8oyi900ns8Tf5yfUzWdZeCwmSluQ7YQUtvwkCsG-FFZe5gSWXAEUSygTkUisGy4zWPtN9msFVynP0rUDsotzRilAJXfBc17ZUPK5wXg==
